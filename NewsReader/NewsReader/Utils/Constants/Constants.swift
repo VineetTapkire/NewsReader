@@ -54,3 +54,5 @@ let SCREEN_MIN_LENGTH    = min(SCREEN_WIDTH, SCREEN_HEIGHT)
 //MARK:- Common Toast Messages
 let UNKNOWN_ERROR_MSG : String = "Oops! Something went wrong, Please try again."
 let NO_INTERNET_CONNECTION : String = "Please check your Internet connection"
+
+let LINK_TEXT = "Check here for more details"

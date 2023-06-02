@@ -39,7 +39,7 @@ class NewsDetailViewController: UIViewController {
         headerTextLabel.text = dataVal?.title
         daysLabel.text = getPastTime(for: formattedDate(dateStr: dataVal?.publishedAt ?? ""))
         souceLabel.text = dataVal?.source.name
-        descLabel.text = dataVal?.url
+        descLabel.text = LINK_TEXT
         let tap = UITapGestureRecognizer(target: self, action: #selector(self.tapFunction))
         
         // Gesture recognizer Label
@@ -53,7 +53,7 @@ class NewsDetailViewController: UIViewController {
     }
     
     @objc func tapFunction(_ sender: Any) {
-        if let newsUrl = URL(string: self.descLabel.text ?? ""){
+        if let newsUrl = URL(string: (dataVal?.url) ?? ""){
             didTapOnURL(newsUrl)
         }
     }
