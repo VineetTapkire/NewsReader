@@ -18,7 +18,9 @@ News reader app requirements:
 
 ![simulator_screenshot_CB88F3DC-16E9-45D6-892D-64E766CF7250](https://github.com/VineetTapkire/NewsReader/assets/13572823/33ea4035-b7fd-42fa-a8c1-2d83801fb8b0)
 
-![simulator_screenshot_03BED2D8-584A-4BF3-95E2-7D821EBF87EA](https://github.com/VineetTapkire/NewsReader/assets/13572823/c01ee8f7-bff6-4793-9f02-cfe8717c47a8)
+
+![simulator_screenshot_9EE26990-1ED4-432C-8754-119E7A551603](https://github.com/VineetTapkire/NewsReader/assets/13572823/331d0b67-ef7e-46b0-a8e6-b53ecec20518)
+
 
 * Note:
 Please add the encoded API_KEY "ZTdkNGI0ZTU5Nzc3NDM4YmI0YTFmNTcxNDNlOTIwMWE=" inside the code to run it as expected.
