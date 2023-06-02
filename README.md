@@ -12,8 +12,7 @@ News reader app requirements:
 * Language: Swift.
 
 * Project Folder structure
- 
-![Uploading Screenshot 2023-06-02 at 7.45.28 PM.png…]()
+ <img width="278" alt="Screenshot 2023-06-02 at 7 49 39 PM" src="https://github.com/VineetTapkire/NewsReader/assets/13572823/5c07951e-9d6a-4903-be58-efc032db6e5a">
 
 * How application look like
 
