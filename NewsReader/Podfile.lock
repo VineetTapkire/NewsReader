@@ -1,0 +1,22 @@
+PODS:
+  - PullToRefreshKit (0.8.8)
+  - SDWebImage (5.15.8):
+    - SDWebImage/Core (= 5.15.8)
+  - SDWebImage/Core (5.15.8)
+
+DEPENDENCIES:
+  - PullToRefreshKit
+  - SDWebImage
+
+SPEC REPOS:
+  trunk:
+    - PullToRefreshKit
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  PullToRefreshKit: 7cc53e720e69f135cffa1a57784dfb534f0222ab
+  SDWebImage: cb032eba469c54e0000e78bcb0a13cdde0a52798
+
+PODFILE CHECKSUM: 574fb2d955febb72182124c3098c3443bfe085f0
+
+COCOAPODS: 1.12.1
